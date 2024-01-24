@@ -4,9 +4,8 @@ This React app allows users to search for images using the Unsplash API. It incl
 
 ## Video Demonstration
 
-[Click to watch video](https://www.youtube.com/watch?v=t5iBISzZPLk&ab_channel=Teets)
+[Click to watch video](https://github.com/BibekLakra91/unsplash-image-app/blob/main/video_demo.gif)
 
-[Click to watch video](https://github.com/BibekLakra91/unsplash-image-app/live-demo.m4v](https://www.youtube.com/watch?v=t5iBISzZPLk&ab_channel=Teets)
 
 
 ## Features
