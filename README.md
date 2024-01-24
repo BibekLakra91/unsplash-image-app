@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 
 ## Customize
 
-Feel free to customize the app as needed for your project. You can modify the styling, add additional features, or integrate more APIs.
+Feel free to customize the app as needed. You can modify the styling, add additional features, or integrate more APIs.
 
 ## License
 
