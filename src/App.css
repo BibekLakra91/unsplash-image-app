@@ -7,6 +7,7 @@ body {
   background-color: #f4f4f4;
 }
 
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -14,10 +15,15 @@ body {
 }
 
 h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
   color: #333;
 }
 
 .search-container {
+  display: flex;
+  justify-content: center;
   margin-bottom: 20px;
 }
 
@@ -33,20 +39,20 @@ button {
   cursor: pointer;
 }
 
-.image-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 20px;
-}
-
 .image-item {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100%; 
+  
+  flex-wrap: wrap;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .image-item img {
-  width: 100%;
+  width: 95%;
   height: auto;
   border-radius: 8px 8px 0 0;
 }
@@ -67,6 +73,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+
 
 .pagination button:disabled {
   background-color: #bdc3c7;

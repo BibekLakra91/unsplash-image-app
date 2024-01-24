@@ -52,13 +52,13 @@ const App = () => {
 
   return (
     <div>
-      <h1>React Image Search App</h1>
+      <h1>Image Search App</h1>
       <SearchBar onSearch={handleSearch} />
       <ImageList images={images} />
 
       {/* Conditional rendering of pagination controls */}
       {images.length > 0 && (
-        <div>
+        <div className='pagination'>
           <button onClick={handlePrevPage} disabled={currentPage === 1}>
             Prev
           </button>

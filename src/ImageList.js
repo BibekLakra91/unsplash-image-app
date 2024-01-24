@@ -1,9 +1,8 @@
-// ImageList.js
 import React from 'react';
 
 const ImageList = ({ images }) => {
   return (
-    <div>
+    <div className='image-item'>
       {images.map((image) => (
         <div key={image.id}>
           <img src={image.urls.small} alt={image.alt_description} />
