@@ -3,7 +3,7 @@
 This React app allows users to search for images using the Unsplash API. It includes a search bar, image display, and pagination controls.
 
 ## Video Demonstration
-[Click to watch video](https://github.com/BibekLakra91/unsplash-image-app/live-demo.m4v)
+[Click to watch video]([https://github.com/BibekLakra91/unsplash-image-app/live-demo.m4v](https://www.youtube.com/watch?v=t5iBISzZPLk&ab_channel=Teets))
 
 
 ## Features
